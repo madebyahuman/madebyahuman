@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**madebyahuman/madebyahuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<pre>
+Welcome, this is a made by a human's space.
+</pre>
+</p>
 
-Here are some ideas to get you started:
+<pre>
+> About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+made by a human is a media artist based in France.
+My work is both structured and intuitive, a dialogue between control and emergence.
+I build systems to understand perception and design interfaces to question thinking.
+
+Tools: TouchDesigner, Figma, Python, Framer, P5JS, Unity, ...
+
+> Contact
+
+Email: hi.madebyahuman@gmail.com
+Youtube: https://www.youtube.com/@humanlab_art
+Portfolio: https://humanlab.art
+</pre>
