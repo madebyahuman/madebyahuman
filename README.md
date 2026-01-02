@@ -1,7 +1,7 @@
 
 <p align="center">
 <pre>
-Welcome, this is a made by a human's space.
+Welcome, this is made by a human's space.
 </pre>
 </p>
 
