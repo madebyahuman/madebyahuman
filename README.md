@@ -19,5 +19,5 @@ Tools: TouchDesigner, Figma, Python, Framer, P5JS, Unity, ...
 
 Email: hi.madebyahuman@gmail.com
 Youtube: https://www.youtube.com/@humanlab_art
-Portfolio: https://humanlab.art
+Portfolio: https://madebyahuman.fr
 </pre>
