@@ -15,7 +15,7 @@ I build systems to understand how we see, and I design interfaces to question ho
 
 Tools: TouchDesigner, Figma, Python, Framer, P5JS, Unity, ...
 
-> Contact
+> Link
 
 Youtube: https://www.youtube.com/@humanlab_art
 Portfolio: https://madebyahuman.fr
